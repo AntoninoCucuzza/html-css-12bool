@@ -1,0 +1,10 @@
+.debug [class^="col"]{
+    background-color: aqua;
+    height: 100px;
+    border: 1px solid;
+    padding: 0 1rem;
+}
+
+.row{
+    margin: 0 - 1rem;
+}
