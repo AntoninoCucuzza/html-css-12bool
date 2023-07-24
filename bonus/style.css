@@ -1,0 +1,16 @@
+[class^="col"]{
+    height: 75px;
+}
+.container{
+    max-width: 800px;
+}
+
+.black{
+    background-color: black;
+}
+.gray{
+    background-color: lightgray;
+}
+.red{
+    background-color: red;
+}
